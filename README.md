@@ -19,7 +19,7 @@ Ps:请自行去往xray官网下载最新版xray,和编译后的文件放一起,�
 ```go
 go 1.17
 go get golang.org/x/text/encoding/simplifiedchinese
-CGO_ENABLED=0 GOOS=windows GOARCH=amd64 go build -o xray_check.exe -ldflags "-w -s" --trimpath xray.go
+CGO_ENABLED=0 GOOS=windows GOARCH=amd64 go build -o xray_crack.exe -ldflags "-w -s" --trimpath xray.go
 ```
 
 ![xary](./xary.png)
