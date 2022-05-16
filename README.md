@@ -1,4 +1,4 @@
-# xray_free_check
+# xray_free_crack
 
 ## 说明
 
@@ -12,6 +12,8 @@
 
 Ps:请自行去往xray官网下载最新版xray,和编译后的文件放一起,重命名为xray.exe
 
+目前支持最新版本:1.8.4
+2022.05.16
 ## 编译
 
 ```go
