@@ -20,3 +20,4 @@ go get golang.org/x/text/encoding/simplifiedchinese
 CGO_ENABLED=0 GOOS=windows GOARCH=amd64 go build -o xray_check.exe -ldflags "-w -s" --trimpath xray.go
 ```
 
+![xary](./xary.png)
